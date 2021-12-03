@@ -21,5 +21,5 @@ My name is Sifan Liu and I'm a graduate student at Columbia University. I'm from
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarolLiuSifan&repo=msafer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-[1]: www.linkedin.com/in/sifan-liu-567947206/
+[1]: https://www.linkedin.com/in/sifan-liu-567947206/
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
