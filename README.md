@@ -9,10 +9,12 @@ My name is Sifan Liu and I'm a graduate student at Columbia University. I'm from
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=2bbc8a)
 
-## Project
+## Projects
 
-### Capstone Fall 2020
+### Capstone                                                                                                                                              
+Fall 2020
 
 • Analyzed datasets offered by the Smith Libraries to see if the Smith College Libraries is equipped to
 support the student body.
@@ -26,13 +28,17 @@ fields, and performed analysis.
 allocate library resources solely based on the number of students enrolled in each subject.
 
 
-### Advanced Programming in R Fall 2019
+### Advanced Programming in R                                                                                                                              
+Fall 2019
+
 • Created a package using R that finds location of error when using function map() in package purrr.
 
 • Created function map_safe() which will return a list of logical returns where it will be easy to identify the
 place of the error.
 
-### Structural Equation Modeling Project Spring 2019
+### Structural Equation Modeling Project                                                                                                                 
+Spring 2019
+
 • Used SEM model to investigate the relationships among age, neighborhood, cost of living and happiness of
 Somerville residents.
 
