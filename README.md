@@ -9,6 +9,38 @@ My name is Sifan Liu and I'm a graduate student at Columbia University. I'm from
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
+
+## Project
+
+### Capstone Fall 2020
+
+• Analyzed datasets offered by the Smith Libraries to see if the Smith College Libraries is equipped to
+support the student body.
+
+• Used data wrangling skills to clean the datasets and created data visualizations for analyzing purposes.
+
+• created an R package, alephr, conducted an LCCN dictionary to match each book number with its relevant
+fields, and performed analysis.
+
+• Overall, we found a difference in the number of unique items in each subject, and Smith College does not
+allocate library resources solely based on the number of students enrolled in each subject.
+
+
+### Advanced Programming in R Fall 2019
+• Created a package using R that finds location of error when using function map() in package purrr.
+
+• Created function map_safe() which will return a list of logical returns where it will be easy to identify the
+place of the error.
+
+### Structural Equation Modeling Project Spring 2019
+• Used SEM model to investigate the relationships among age, neighborhood, cost of living and happiness of
+Somerville residents.
+
+• Used R to wrangle data and applied the SEM model to the dataset.
+
+• Determined that neighborhood factor had a direct and positive causal influence on happiness.
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CarolLiuSifan/SifanLiu">
